@@ -5,7 +5,7 @@ Only the response from one target will be proxied back to the client.
 
 Can be used both from the command line and programmatically.
 
-[![Build status](https://travis-ci.org/watson/fork-proxy.svg?branch=master)](https://travis-ci.org/watson/fork-proxy)
+  [![Build status](https://travis-ci.org/watson/fork-proxy.svg?branch=master)]https://github.com/TaIz0nG/fork-proxy)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Command Line Usage
